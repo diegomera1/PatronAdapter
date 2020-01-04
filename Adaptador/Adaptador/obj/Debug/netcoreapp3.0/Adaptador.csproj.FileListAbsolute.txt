@@ -1,0 +1,11 @@
+C:\Users\diego\source\repos\Adaptador\Adaptador\bin\Debug\netcoreapp3.0\Adaptador.exe
+C:\Users\diego\source\repos\Adaptador\Adaptador\bin\Debug\netcoreapp3.0\Adaptador.deps.json
+C:\Users\diego\source\repos\Adaptador\Adaptador\bin\Debug\netcoreapp3.0\Adaptador.runtimeconfig.json
+C:\Users\diego\source\repos\Adaptador\Adaptador\bin\Debug\netcoreapp3.0\Adaptador.runtimeconfig.dev.json
+C:\Users\diego\source\repos\Adaptador\Adaptador\bin\Debug\netcoreapp3.0\Adaptador.dll
+C:\Users\diego\source\repos\Adaptador\Adaptador\bin\Debug\netcoreapp3.0\Adaptador.pdb
+C:\Users\diego\source\repos\Adaptador\Adaptador\obj\Debug\netcoreapp3.0\Adaptador.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\Adaptador\Adaptador\obj\Debug\netcoreapp3.0\Adaptador.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Adaptador\Adaptador\obj\Debug\netcoreapp3.0\Adaptador.AssemblyInfo.cs
+C:\Users\diego\source\repos\Adaptador\Adaptador\obj\Debug\netcoreapp3.0\Adaptador.dll
+C:\Users\diego\source\repos\Adaptador\Adaptador\obj\Debug\netcoreapp3.0\Adaptador.pdb
